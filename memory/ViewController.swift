@@ -33,9 +33,6 @@ class ViewController: UIViewController {
     }
 
     var im0=UIImage(named:"dos.png")
-    //var im1=UIImage(named:"image1.png")
-    //var im2=UIImage(named:"image2.png")
-
     var cpt=0
     var returned:Array<UIButton>=Array()
     
